@@ -14,7 +14,7 @@ First a logistic regression model was fitted using the training data (X_train an
 
 
 ## Write a Credit Risk Analysis Report
-A brief report that included a summary and analysis of the performance of the machine learning models that you used in this homework was written as ReadME. The report contains the the purpose of this analysis, the results: Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model. A summary: Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
+A brief report in response to question asked was written describing the confusion matrix results as well as classification report.
 
 
 
